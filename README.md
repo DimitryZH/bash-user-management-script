@@ -40,7 +40,7 @@ To implement the "Bash User Management Script," follow these steps:
     ```
 
 4. **Paste script code into the text editor:**
-   - [create_user_ssh_pub.sh](link_to_create_user_ssh_pub.sh_file)
+   - [create_user_ssh_pub.sh](https://github.com/DimitryZH/bash-user-management-script/blob/main/create_user_ssh_pub.sh)
 
 ![create-user-script](https://github.com/DimitryZH/bash-user-management-script/assets/146372946/87376465-ff1b-4119-bdd5-c26be19e6a73)
 
